@@ -31,12 +31,12 @@
 - **Description:** A secure API with role-based authentication and authorization.
 - [GitHub Link](#)
 
-## 🎓 Certifications
+ 🎓 Certifications
 - AWS Certified Cloud Practitioner
 - Oracle Certified Java Developer
 - Microservices Specialization
 
-## 🛠 Technical Skills
+ 🛠 Technical Skills
 - **Languages:** Java, JavaScript, TypeScript, SQL, Python, C#
 - **Frontend:** Angular, React.js, Node.js, Express.js
 - **Backend:** Spring Boot, Spring MVC, Spring Security, Microservices
@@ -44,7 +44,7 @@
 - **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB
 - **DevOps:** Jenkins, Docker, Kubernetes, CI/CD Pipelines
 
-## 📞 Contact
-- **Email:** vishwanthmadireddy99@gmail.com
+📞 Contact
+- **Email:** vishwanthreddymadireddy@gmail.com
 - **LinkedIn:** [LinkedIn Profile](#)
 - **GitHub:** [GitHub Profile](#)# GitHubPortfolio
